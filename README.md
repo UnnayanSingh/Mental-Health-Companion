@@ -75,8 +75,8 @@ Mental-Health-Companion/
 
     Unnayan Singh
     📧 unnayansingh2005@gmail.com
-    🔗 GitHub
-    🔗 LinkedIn
+    🔗 GitHub: https://github.com/UnnayanSingh
+    🔗 LinkedIn: https://www.linkedin.com/in/unnayan-singh-2b9062289
 
 ⭐ Show Your Support
 
